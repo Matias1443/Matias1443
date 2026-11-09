@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cabecera.svg" alt="Matías Donadío. Aprendiendo a construir con código. Java, lenguaje de marcas y Git." width="100%">
+  <img src="assets/cabecera.svg?v=1a1b7d63" alt="Matías Donadío. Aprendiendo a construir con código. Java, lenguaje de marcas y Git." width="100%">
 </p>
 
 <p align="center">
